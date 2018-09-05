@@ -1,17 +1,17 @@
 {
 	"formatVersion" : 1,
-	"passTypeIdentifier" : "pass.au.com.timoliver.businesscard.dank",
+	"passTypeIdentifier" : "pass.com.dmtip.bizcard",
 	"serialNumber" : "XD",
-	"teamIdentifier" : "**INSERT YOUR TEAM IDENTIFIER CODE HERE**",
+	"teamIdentifier" : "YFP3B45MFG",
 	"barcodes" : [
 		{
-		    "message" : "https://downloads.timoliver.com.au/tim-businesscard.pkpass",
+		    "message" : "https://dmtip.com/bizcard/billy",
 		    "format" : "PKBarcodeFormatQR",
 		    "messageEncoding" : "iso-8859-1"
 		}
 	],
-	"organizationName" : "Tim Oliver",
-	"description" : "Tim Oliver",
+	"organizationName" : "Billy Qiu",
+	"description" : "Billy Qiu",
 	"foregroundColor" : "rgb(255, 255, 255)",
 	"backgroundColor" : "rgb(20, 20, 20)",
 	"labelColor" : "rgb(190, 57, 57)",
@@ -21,20 +21,20 @@
 				"key" : "header-name",
 				"textAlignment" : "PKTextAlignmentRight",
 				"label" : "PROFESSION",
-				"value" : "Hanzo Main"
+				"value" : "Developer"
 			}
 		],
 		"auxiliaryFields" : [
 			{
 				"key" : "blog",
-				"label" : "BLOG",
-				"value" : "http://timoliver.blog",
+				"label" : "WEB",
+				"value" : "https://dmtip.com/billy",
 				"textAlignment" : "PKTextAlignmentLeft"
 			},
 			{
 				"key" : "twitter",
 				"label" : "TWITTER",
-				"value" : "@TimOliverAU",
+				"value" : "@ChiuEika",
 				"textAlignment" : "PKTextAlignmentRight"
 			}
 		],
@@ -42,37 +42,37 @@
 			{
 				"key" : "back-name",
 				"label" : "NAME",
-				"value" : "Tim Oliver"
+				"value" : "Billy Qiu"
 			},
 			{
 				"key" : "back-role",
 				"label" : "OCCUPATION",
-				"value" : "CMO - Chief Memes Officer"
+				"value" : "Developer"
 			},
 			{
 				"key" : "back-email",
 				"label" : "EMAIL",
-				"attributedValue" : "<a href='mailto:info@timoliver.com.au'>info@timoliver.com.au</a>"
+				"attributedValue" : "<a href='mailto:billy@dmtip.com'>billy@dmtip.com</a>"
 			},
 			{
 				"key" : "back-blog",
 				"label" : "BLOG",
-				"attributedValue" : "<a href='http://timoliver.blog'>http://timoliver.blog</a>"
+				"attributedValue" : "<a href='https://dmtip.com/billy'>https://dmtip.com/billy</a>"
 			},
 			{
 				"key" : "back-twitter",
 				"label" : "TWITTER",
-				"attributedValue" : "<a href='http://twitter.com/timoliverau'>@TimOliverAU</a>"
+				"attributedValue" : "<a href='http://twitter.com/chiueika'>@ChiuEika</a>"
 			},	
 			{
 				"key" : "back-instagram",
 				"label" : "INSTAGRAM",
-				"attributedValue" : "<a href='http://instagram.com/timoliver'>@TimOliver</a>"
+				"attributedValue" : "<a href='http://instagram.com/chiueika'>@ChiuEika</a>"
 			},	
 			{
 				"key" : "back-github",
 				"label" : "GITHUB",
-				"attributedValue" : "<a href='http://github.com/timoliver'>@TimOliver</a>"
+				"attributedValue" : "<a href='http://github.com/eikachiu'>@EikaChiu</a>"
 			}
 		]
 	}
